@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog  i am AL7i !
+title: Welcome to My Site
 ---
-Al7i new add
+
+# Hello, World! 👋
+Welcome to my custom homepage built with GitHub.
